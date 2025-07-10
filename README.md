@@ -1,26 +1,20 @@
-# Interior Stories  
+># 👩‍💻 Group project
+>
+>👥 Group size : 8 junior developers <br>
+>🏃 Sprint : 2 weeks <br>
+>🛋️ Theme : Create a website to sell furnitures
+>
 
-Application e-commerce pour meubles design.    
+># 📚 Stack
+>
+>🌐 Laravel (Sanctum), PHP, PostgreSQL <br>
+>
 
-Type : collectif — 8 personnes     
-Durée : 2 semaines    
-Période : 6eme mois de formation   
+># 📑 Project guidlines
+>
+>❔Create the website for a client who wants to sell second-hand furniture. <br>
+>💭 The main goal is to create a user experience. <br>
+>🔁 From the authentication system, using a catalog, managing the cart and then the checkout of an order.
+>⚠️ This is the backend part of the project.
+>
 
-## Stack  
-
-- Langages / Frameworks : HTML — CSS (Tailwind) — JS (Vue.js) — PHP (Laravel)   
-- Base de données : PostgreSQL  
-- Outils / Services : VSCode — Sanctum — Eloquent — Pinia — Postman  
-
-## Fonctionnalités et compétences
-
-| Fonctionnalité                      | Compétence acquise                                                               |
-| ----------------------------------- | -------------------------------------------------------------------------------- |
-| **Création d'une API REST**         | Développement de routes, contrôleurs et logique de traitement                    |
-| **Connexion à une base de données** | Utilisation d’Eloquent ORM pour effectuer des requêtes SQL vers une base MySQL   |
-| **Gestion des requêtes HTTP**       | Mise en place de routes `GET`, `POST`, `DELETE` et `PUT` via Laravel             |
-| **Filtrage des données**            | Affichage conditionnel (ex: meubles disponibles uniquement)                      |
-| **Utilisation de middlewares**      | Protection des routes par authentification (Sanctum)                             |
-| **Formatage des réponses API**      | Structuration des retours en JSON pour consommation Frontend                     |
-
-Lien vers le [Frontend](https://github.com/Nadrojria/Interior_stories_Frontend)
