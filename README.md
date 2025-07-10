@@ -7,7 +7,7 @@
 
 ># 📚 Stack
 >
->🌐 Laravel (Sanctum), PHP, PostgreSQL <br>
+>🌐 PHP, Laravel (Sanctum), Eloquent, PostgreSQL <br>
 >
 
 ># 📑 Project guidlines
